@@ -1,0 +1,98 @@
+commit aef21fe2a962bbcbeafd01c9f74e60c41c3151be
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Wed Aug 31 09:35:58 2022 -0500
+
+    Agragando 2 párrafos
+
+commit e2ba2b41021cb34f9dbd2df63f39f1b260f34e0c
+Merge: 56d73b0 6aa81ce
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 16:49:21 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 56d73b041bdefadff6878abbbcca13e94ac079cf
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 16:22:24 2022 -0500
+
+    Agregando estaciones del año con fechas de inicio
+
+commit 6aa81ce173a44e4260ee5b66b5a103a1d7b29953
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 16:22:24 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 3a0681ca2284e6ef8e6dd5a4133a62722ca3486d
+Merge: 8fbd181 c010e6b
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 16:16:51 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit c010e6bc5950153dcfe5ba8f99c4324ad96be5bf
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 16:06:46 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 8fbd181ab449084073b10228ce8eeace40b742bf
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 16:03:07 2022 -0500
+
+    Agregando style.css al index.html
+
+commit feff8d0929f722aa784e23fdc84bb37448c25604
+Merge: 1af2c9f b9a5f72
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 15:52:46 2022 -0500
+
+    Merge branch 'js'
+
+commit b9a5f729d97f1b768b8c24628c4a6b223460d804
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 15:45:56 2022 -0500
+
+    Creando index.js
+
+commit 1af2c9fc0aa35c890c075de10ec8a7b0a1ac0b85
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 15:40:29 2022 -0500
+
+    Crando style.css
+
+commit c890a63293cd84e7b83f9022fae9db2d4546667b
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 15:35:43 2022 -0500
+
+    Creando index.html
+
+commit 7092da55864db62277522930f19cc66fa488ca91
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 14:57:58 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 1ef31fbc0a2087930d136c7535fd598642719b71
+Author: totan2929 <107495475+totan2929@users.noreply.github.com>
+Date:   Tue Aug 30 13:50:36 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 83a3d858943d4345c83607ded0823aa8e35d5ac6
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 13:37:49 2022 -0500
+
+    Agregando más contenido al README
+
+commit d10a0985d420130205ec9e625526898561404386
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 12:50:36 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 8a56d439e243063bf789d0f0b9338c3ca9874c1d
+Author: Jonathan Cañola Salazar <jocasa90@hotmail.com>
+Date:   Tue Aug 30 12:07:41 2022 -0500
+
+    Primer commit
